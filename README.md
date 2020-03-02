@@ -1,2 +1,2 @@
 # xgboost
-xgboost example
+Simple xgboost example for credit amount prediction
